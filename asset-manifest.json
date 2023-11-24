@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pomodoro-online/static/css/main.4b5074d0.css",
+    "main.js": "/pomodoro-online/static/js/main.724bc761.js",
+    "static/media/DS-DIGIT.TTF": "/pomodoro-online/static/media/DS-DIGIT.063ff1f714df69f9ff9d.TTF",
+    "index.html": "/pomodoro-online/index.html",
+    "main.4b5074d0.css.map": "/pomodoro-online/static/css/main.4b5074d0.css.map",
+    "main.724bc761.js.map": "/pomodoro-online/static/js/main.724bc761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5074d0.css",
+    "static/js/main.724bc761.js"
+  ]
+}
